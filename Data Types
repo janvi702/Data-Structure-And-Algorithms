@@ -1,0 +1,25 @@
+#Types of data types included
+
+#strings
+name= "Janvi"
+print(f"my name is {name}")
+#output: my name is Janvi
+
+#integer
+age= "20"
+print(f"I am {age} years old")
+#output: I am 20 years old
+
+#Float
+cgpa= "8.3"
+print(f"I have a cgpa of {cgpa}")
+#output: I have a cgpa of 8.3
+
+#Boolean
+is_student= True
+
+if is_student:
+    print("you are a student")
+else:
+    print("you are not a student")
+#output: you are a student
