@@ -1,5 +1,5 @@
-//the conditional statement includes if, elif and else
-//the "else" conditional will be executed, when "if" and "elif" statement becomes false
+#the conditional statement includes if, elif and else
+#the "else" conditional will be executed, when "if" and "elif" statement becomes false
 
 a = 200
 b = 33
@@ -10,4 +10,4 @@ elif a == b:
 else:
   print("a is greater than b")
 
-//the result will be "a is greater than b", as b < a
+#the result will be "a is greater than b", as b < a
