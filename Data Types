@@ -28,3 +28,8 @@ else:
 
 print(type(is_student))
 
+#List
+b = ["apple", "banana", "orange", 4, 5]
+print(b[3])
+print(b[-3])
+print(type(b)) 
