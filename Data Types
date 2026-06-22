@@ -28,8 +28,25 @@ else:
 
 print(type(is_student))
 
-#List
+
+#List- ordered and changeable
 b = ["apple", "banana", "orange", 4, 5]
 print(b[3])
 print(b[-3])
 print(type(b)) 
+
+
+#Tupple- ordered and unchangeable
+Fruits = ("apple", "banana", "cherry")
+print(Fruits)
+print(type(Fruits)) 
+
+
+#dictionaries- ordered and changeable
+Car = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(Car["brand"])
+print(type(Car)) 
