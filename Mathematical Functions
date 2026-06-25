@@ -24,3 +24,12 @@ print(math.e)
 x= 4
 result= math.sqrt(x)
 print(result)
+
+#gives after roundof value
+x= 4.2
+result1= math.ceil(x)
+print(result1) #result- 5
+
+#gives before roundof value
+result2= math.floor(x)
+print(result2) #result- 4
