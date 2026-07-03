@@ -1,6 +1,5 @@
 #the conditional statement includes if, elif and else
 #the "else" conditional will be executed, when "if" and "elif" statement becomes false
-
 a = 200
 b = 33
 if b > a:
@@ -10,4 +9,8 @@ elif a == b:
 else:
   print("a is greater than b")
 
-#the result will be "a is greater than b", as b < a
+
+#conditional expression: the conditional statement that can be written in one line
+#format: X if condition else Y
+num = 283
+print("EVEN" if num % 2 ==0 else "ODD")
