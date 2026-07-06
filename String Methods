@@ -1,1 +1,19 @@
+name= input("Enter your full name:")
 
+result1= len(name)
+print(result1)
+
+result2= name.find("v")
+print(result2)
+
+result3= name.rfind("S")
+print(result3)
+
+result4= name.upper()
+print(result4)
+
+result5= name.lower()
+print(result5)
+
+result6= name.isdigit() #Gives boolean result where the element shouldn't contain "space"
+print(result6)
