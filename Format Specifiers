@@ -1,1 +1,4 @@
+#Format Specifers- format- {Value:flag}
 
+Price= 22.390087487
+print(f"The price of item 1 is: {Price: .3f}")
