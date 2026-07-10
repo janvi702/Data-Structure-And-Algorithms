@@ -1,4 +1,6 @@
-#Format Specifers- format- {Value:flag}
+#Format Specifiers- format- {Value:flag}
+#these format specifiers gives the formatting to the output
 
 Price= 22.390087487
 print(f"The price of item 1 is: {Price: .3f}")
+print(f"The price of item 1 is: {Price: +, .2f}")
