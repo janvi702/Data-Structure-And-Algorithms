@@ -11,3 +11,11 @@ while i < 6:
   i += 1
 else:
   print("i is no longer less than 6")
+
+#while loop
+name= input("Enter your name: ") 
+
+while name=="":
+ print("Please Enter your ") 
+ name= input("Enter your name: ")
+print(f"Hello {name}") 
