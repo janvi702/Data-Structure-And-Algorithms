@@ -16,6 +16,6 @@ else:
 name= input("Enter your name: ") 
 
 while name=="":
- print("Please Enter your ") 
+ print("Please Enter your name") 
  name= input("Enter your name: ")
 print(f"Hello {name}") 
