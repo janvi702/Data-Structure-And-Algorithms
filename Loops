@@ -6,6 +6,10 @@ for x in fruits:
 for i in range(10):
 print(hi, how can i help you?)
 
+for x in reversed(range(1, 11)) :
+ print(x) 
+print(" Happy Birthday ") 
+
 #using while loop 
 i = 1
 while i < 6:
