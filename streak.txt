@@ -1,0 +1,6 @@
+Algorithm is a set of finite, well-defined steps or instructions designed to solve a problem or perform a computation. It can also be defined as a procedure for solving a mathematical or computational problem in a finite number of steps, often involving repetitive or recursive operations.
+
+Solve complex problems efficiently and effectively.
+Automate tasks to make processes faster and reliable.
+Enable computers to perform complex and repetitive tasks.
+what_is_an_algorithm_.webp
